@@ -15,6 +15,6 @@ Once its done starting, you'll run this command to access it:
 
 Once it shows a message saying "Open on port 8000", click "open browser". this will take you to a page that looks like this:
 
-Click "vnc.html" and you're in!!
+Click "vnc.html" and profit!!
 
 ## [!NOTE] if you use this too much, you'll run out of hours (120/Month) so keep that in mind. also, if codespaces is blocked, you'll have to use gitpod, so keep that in mind as well.
